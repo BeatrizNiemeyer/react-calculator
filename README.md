@@ -12,7 +12,11 @@
 ## Features
 - Basic calculator with mathematical calculations such as addition, subtraction, multiplication and division. It also includes All Clear (AC) and Delete (DEL) keys.
 
-![react-calculator](https://user-images.githubusercontent.com/98921140/188715609-3c9eb202-3414-438f-9731-bba692bf947d.gif)
+
+
+https://user-images.githubusercontent.com/98921140/188715925-539ca667-5f3c-4505-9007-7b0633e158e9.mp4
+
+
 
 
 ## Setup
