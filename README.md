@@ -1,5 +1,5 @@
 # React Calculator
-> A basic calculator built teh useReducer React hook!
+> A basic calculator built using useReducer React hook!
 
 
 ## Technologies Used
